@@ -1,0 +1,31 @@
+C:\Demo\Azure 204\Web App\Web App\bin\Debug\net6.0\appsettings.Development.json
+C:\Demo\Azure 204\Web App\Web App\bin\Debug\net6.0\appsettings.json
+C:\Demo\Azure 204\Web App\Web App\bin\Debug\net6.0\Web App.staticwebassets.runtime.json
+C:\Demo\Azure 204\Web App\Web App\bin\Debug\net6.0\Web App.exe
+C:\Demo\Azure 204\Web App\Web App\bin\Debug\net6.0\Web App.deps.json
+C:\Demo\Azure 204\Web App\Web App\bin\Debug\net6.0\Web App.runtimeconfig.json
+C:\Demo\Azure 204\Web App\Web App\bin\Debug\net6.0\Web App.dll
+C:\Demo\Azure 204\Web App\Web App\bin\Debug\net6.0\Web App.pdb
+C:\Demo\Azure 204\Web App\Web App\obj\Debug\net6.0\Web App.csproj.AssemblyReference.cache
+C:\Demo\Azure 204\Web App\Web App\obj\Debug\net6.0\Web App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demo\Azure 204\Web App\Web App\obj\Debug\net6.0\Web App.AssemblyInfoInputs.cache
+C:\Demo\Azure 204\Web App\Web App\obj\Debug\net6.0\Web App.AssemblyInfo.cs
+C:\Demo\Azure 204\Web App\Web App\obj\Debug\net6.0\Web App.csproj.CoreCompileInputs.cache
+C:\Demo\Azure 204\Web App\Web App\obj\Debug\net6.0\Web App.MvcApplicationPartsAssemblyInfo.cache
+C:\Demo\Azure 204\Web App\Web App\obj\Debug\net6.0\Web App.RazorAssemblyInfo.cache
+C:\Demo\Azure 204\Web App\Web App\obj\Debug\net6.0\Web App.RazorAssemblyInfo.cs
+C:\Demo\Azure 204\Web App\Web App\obj\Debug\net6.0\staticwebassets\msbuild.Web App.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Demo\Azure 204\Web App\Web App\obj\Debug\net6.0\staticwebassets\msbuild.build.Web App.props
+C:\Demo\Azure 204\Web App\Web App\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Web App.props
+C:\Demo\Azure 204\Web App\Web App\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Web App.props
+C:\Demo\Azure 204\Web App\Web App\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Demo\Azure 204\Web App\Web App\obj\Debug\net6.0\staticwebassets.build.json
+C:\Demo\Azure 204\Web App\Web App\obj\Debug\net6.0\staticwebassets.development.json
+C:\Demo\Azure 204\Web App\Web App\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Demo\Azure 204\Web App\Web App\obj\Debug\net6.0\scopedcss\bundle\Web App.styles.css
+C:\Demo\Azure 204\Web App\Web App\obj\Debug\net6.0\scopedcss\projectbundle\Web App.bundle.scp.css
+C:\Demo\Azure 204\Web App\Web App\obj\Debug\net6.0\Web App.dll
+C:\Demo\Azure 204\Web App\Web App\obj\Debug\net6.0\refint\Web App.dll
+C:\Demo\Azure 204\Web App\Web App\obj\Debug\net6.0\Web App.pdb
+C:\Demo\Azure 204\Web App\Web App\obj\Debug\net6.0\Web App.genruntimeconfig.cache
+C:\Demo\Azure 204\Web App\Web App\obj\Debug\net6.0\ref\Web App.dll
